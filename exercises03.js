@@ -1,6 +1,6 @@
 function cariMedian(arr) {
     // you can only write your code here!
-    var median=Number;
+    var median=0;
     if(arr.length%2==0){
         jumlah=arr[arr.length/2]+arr[arr.length/2-1]
         median=jumlah/2

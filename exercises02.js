@@ -1,8 +1,8 @@
 function fpb(angka1, angka2) {
     // you can only write your code here!
-    var fpb = Number;
-    var a=Number;
-    var b=Number;
+    var fpb = 0;
+    var a=0;
+    var b=0;
     if(angka1<angka2){
         a=angka1
         b=angka2
