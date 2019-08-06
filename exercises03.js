@@ -5,7 +5,7 @@ function cariMedian(arr) {
         jumlah=arr[arr.length/2]+arr[arr.length/2-1]
         median=jumlah/2
     }else{
-        median=arr[Math.floor(arr.length/2)]
+        median=arr[(arr.length-1)/2]
     }
     return median;
   }
