@@ -1,4 +1,5 @@
 function cariModus(arr) {
+    // you can only write your code here!
     var modus=0;
     var banding=0;
     for (var i=0;i<arr.length;i++){
